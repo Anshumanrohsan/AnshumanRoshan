@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: MarkoOne-Regular
+font link: https://fonts.google.com/specimen/Marko+One
+font author: Cyreal
+font author site: http://www.cyreal.org/
+
+
+{"bg-gradient-0":"#288642","bg-gradient-1":"#27FDFD","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
